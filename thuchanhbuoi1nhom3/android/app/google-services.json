@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165474919698",
+    "project_id": "jobspot-thuchanh",
+    "storage_bucket": "jobspot-thuchanh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165474919698:android:a3660f279dde284a883fcb",
+        "android_client_info": {
+          "package_name": "com.example.thuchanhbuoi1nhom3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2W3M_iIlD6-jYV_A-0O5IfGy145dypx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
